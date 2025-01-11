@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/SwarnamugiM",
   resume:
-    "https://drive.google.com/file/d/1WD_aGd6-EYx-_O9Xla30L6Db13MtBW-h/view?usp=drive_link",
+    "https://drive.google.com/drive/folders/1Byr1PsLxdZZP3jVpXx4tdknFLUGvtphB",
   linkedin: "https://www.linkedin.com/in/swarnamugi-m-084859227/",
   //Salesforce: "https://www.salesforce.com/trailblazer/cswarnamugi",
 };
